@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunaroraonline&label=Profile%20views&color=0e75b6&style=flat" alt="tarunaroraonline" /> </p>
 
+I am a cloud solution architect specialising in ☁︎ native technologies. I work for Avanade in 🇬🇧 as the Regional Director of DevOps & Software Engineering. I am obsessed with high quality working software and DevOps practices. I have been recognized by Microsoft as a Most Valuable Professional for 9️⃣ years in a row. I have written a few 📚 on DevOps and occassionally speak at International conferences. I actively share my learnings on my 🎥 channel [AzureDevOpsTv](https://bit.ly/azuredevopstv)...
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunaroraonline" alt="tarunaroraonline" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arora_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/arora_tarun?logo=twitter&style=for-the-badge" alt="arora_tarun" /></a> </p>
