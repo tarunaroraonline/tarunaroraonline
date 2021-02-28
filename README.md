@@ -4,11 +4,11 @@
 I am a cloud solution architect specialising in cloud native technologies. I work for Avanade in 🇬🇧 as the Regional Director of DevOps & Software Engineering. I am obsessed with high quality working software and DevOps practices. I have been recognized by Microsoft as a Most Valuable Professional for 9️⃣ years in a row. I have written a few 📚 on DevOps and occassionally speak at International conferences. I actively share my learnings on my 🎥 channel [AzureDevOpsTv](https://bit.ly/azuredevopstv)...
 
 <p align="center">
-<a href="https://twitter.com/arora_tarun"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/iworldtraveller"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="http://facebook.com/azuredevopstv/"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tarunaroraonline/"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/azuredevopstv"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://twitter.com/arora_tarun"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/twitter.png?raw=true"></a>&nbsp;
+<a href="https://instagram.com/iworldtraveller"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;
+<a href="http://facebook.com/azuredevopstv/"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/facebook.png?raw=true"></a>&nbsp;
+<a href="https://www.linkedin.com/in/tarunaroraonline/"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;
+<a href="https://www.buymeacoffee.com/azuredevopstv"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;
 </p>
 
 ### Blogs posts
