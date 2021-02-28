@@ -5,9 +5,10 @@ I am a cloud solution architect specialising in cloud native technologies. I wor
 
 <p align="center">
 <a href="https://twitter.com/arora_tarun"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/iwalkman"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/iworldtraveller"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="http://facebook.com/azuredevopstv/"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tarunaroraonline/"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/azuredevopstv"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/tarunaroraonline/"><img height="30" src="https://github.com/tarunaroraonline/tarunaroraonline/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ### Blogs posts
