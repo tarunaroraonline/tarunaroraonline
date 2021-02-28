@@ -29,11 +29,14 @@ I am a cloud solution architect specialising in cloud native technologies. I wor
 - [Az400 v13 - DevSecOps AZURE | Scan & SECURE Azure Resources  | Microsoft DevOps Certification AZ400](https://www.youtube.com/watch?v=XmMv9HXz8Cc)
 <!-- YOUTUBE:END -->
 
+### Connect with me
+![Twitter Follow](https://img.shields.io/twitter/follow/arora_tarun?color=blue&label=%40arora_tarun&logo=Twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/tarunaroraonline?label=tarunaroraonline&logo=github&style=for-the-badge)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/377771?color=blue&label=tarunaroraonline&logo=stackoverflow&style=for-the-badge)
+
 <br />
 
-<a href="https://stackexchange.com/users/158848"><img src="https://stackexchange.com/users/flair/158848.png" width="208" height="58" alt="profile for Tarun Arora on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tarun Arora on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-Like my work? 
+### Like my work? 
 <p><a href="https://www.buymeacoffee.com/azuredevopstv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="azuredevopstv" /></a></p><br><br>
 
 <br />
