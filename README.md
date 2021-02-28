@@ -20,6 +20,11 @@ I am a cloud solution architect specialising in ☁︎ native technologies. I wo
 
 ### YouTube Videos
 <!-- YOUTUBE:START -->
+- [#Git Commands with Examples | Git Tutorial | Git Crash course | Git Getting started | #DevOps](https://www.youtube.com/watch?v=Xg3FFi2hLyY)
+- [Why Microsoft has two #DevOps Platforms? | DevOps Digital Twins | Comparison #AzureDevOps vs #GitHub](https://www.youtube.com/watch?v=hgkgcLHED5U)
+- [#DevOps predictions for 2021 | by #Azure and #AzureDevOps](https://www.youtube.com/watch?v=oktJGt0zOtU)
+- [Debug docker container | live debug docker image using VsCode  | #docker #devops](https://www.youtube.com/watch?v=k0hpant9wXo)
+- [Az400 v13 - DevSecOps AZURE | Scan & SECURE Azure Resources  | Microsoft DevOps Certification AZ400](https://www.youtube.com/watch?v=XmMv9HXz8Cc)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
