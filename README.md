@@ -31,8 +31,8 @@ I am a cloud solution architect specialising in cloud native technologies. I wor
 
 ### Connect with me
 ![Twitter Follow](https://img.shields.io/twitter/follow/arora_tarun?color=blue&label=%40arora_tarun&logo=Twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/tarunaroraonline?label=tarunaroraonline&logo=github&style=for-the-badge)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/377771?color=blue&label=tarunaroraonline&logo=stackoverflow&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/tarunaroraonline?label=%40tarunaroraonline&logo=github&style=for-the-badge)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/377771?color=blue&label=%40tarunaroraonline&logo=stackoverflow&style=for-the-badge)
 
 <br />
 
