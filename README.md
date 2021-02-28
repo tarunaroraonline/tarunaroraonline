@@ -29,11 +29,6 @@ I am a cloud solution architect specialising in cloud native technologies. I wor
 - [Az400 v13 - DevSecOps AZURE | Scan & SECURE Azure Resources  | Microsoft DevOps Certification AZ400](https://www.youtube.com/watch?v=XmMv9HXz8Cc)
 <!-- YOUTUBE:END -->
 
-### Connect with me
-![Twitter Follow](https://img.shields.io/twitter/follow/arora_tarun?color=blue&label=%40arora_tarun&logo=Twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/tarunaroraonline?label=%40tarunaroraonline&logo=github&style=for-the-badge)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/377771?color=blue&label=%40tarunaroraonline&logo=stackoverflow&style=for-the-badge)
-
 <br />
 
 ### Like my work? 
