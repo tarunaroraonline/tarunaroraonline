@@ -11,6 +11,11 @@ I am a cloud solution architect specialising in ☁︎ native technologies. I wo
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Helm 3 - CI/CD with Azure DevOps using Azure Container Registry (ACR) and Azure Kubernetes Service (AKS)](https://www.visualstudiogeeks.com/devops/helm/deploying-helm-chart-with-azdo)
+- [Quickly switch Kubernetes cluster and namespaces with kubectx and kubens](https://www.visualstudiogeeks.com/kubernetes/utilities/using-kubectx-kubens)
+- [Deploying TIBCO Rendezvous on RedHat Enterprise Linux using Azure DevOps](https://www.visualstudiogeeks.com/azure/devops/azure%20pipelines/deploying-tibco-rdv-using-azure-devops)
+- [Troubleshooting Azure DevOps deployment stuck at 'Queued' status](https://www.visualstudiogeeks.com/azure/devops/azdo-deployment-stage-stuck-at-queued)
+- [Publish VSCode extension to VS Marketplace using simplified ChatOps](https://www.visualstudiogeeks.com/azure/devops/chatops-for-vscode-extension)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
