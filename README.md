@@ -22,11 +22,11 @@ I am a cloud solution architect specialising in cloud native technologies. I wor
 
 ### YouTube Videos
 <!-- YOUTUBE:START -->
+- [#VsCode LiveShare your #Docker containers | #DockerChallenge | Day4 #AzureDevOpsTv](https://www.youtube.com/watch?v=cdjvq27fw8U)
 - [#GitHub profile is your new Developer identity! (NEW) | #GitHubActions | Standout #GitHub profiles](https://www.youtube.com/watch?v=eKmn4g5n-NM)
 - [#Git Commands with Examples | Git Tutorial | Git Crash course | Git Getting started | #DevOps](https://www.youtube.com/watch?v=Xg3FFi2hLyY)
 - [Why Microsoft has two #DevOps Platforms? | DevOps Digital Twins | Comparison #AzureDevOps vs #GitHub](https://www.youtube.com/watch?v=hgkgcLHED5U)
 - [#DevOps predictions for 2021 | by #Azure and #AzureDevOps](https://www.youtube.com/watch?v=oktJGt0zOtU)
-- [Debug docker container | live debug docker image using VsCode  | #docker #devops](https://www.youtube.com/watch?v=k0hpant9wXo)
 <!-- YOUTUBE:END -->
 
 <br />
