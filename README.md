@@ -24,7 +24,7 @@ I am a cloud solution architect specialising in cloud native technologies. I wor
 <!-- YOUTUBE:START -->
 - [Microsoft GitHub Summit | Controlling your Azure spend | #DevOps #FinOps](https://www.youtube.com/watch?v=HOrv6VUzXSU)
 - [#VsCode LiveShare your #Docker containers | #DockerChallenge | Day4 #AzureDevOpsTv](https://www.youtube.com/watch?v=cdjvq27fw8U)
-- [#GitHub profile is your new Developer identity! (NEW) | #GitHubActions | Standout #GitHub profiles](https://www.youtube.com/watch?v=eKmn4g5n-NM)
+- [#GitHub profile is your new Developer identity! &lpar;NEW&rpar; | #GitHubActions | Standout #GitHub profiles](https://www.youtube.com/watch?v=eKmn4g5n-NM)
 - [#Git Commands with Examples | Git Tutorial | Git Crash course | Git Getting started | #DevOps](https://www.youtube.com/watch?v=Xg3FFi2hLyY)
 - [Why Microsoft has two #DevOps Platforms? | DevOps Digital Twins | Comparison #AzureDevOps vs #GitHub](https://www.youtube.com/watch?v=hgkgcLHED5U)
 <!-- YOUTUBE:END -->
